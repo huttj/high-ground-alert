@@ -1,0 +1,18 @@
+{
+  "name": "high-ground-alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "geojson-utils": "^1.1.0",
+    "leaflet": "^0.7.3",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
